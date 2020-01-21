@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Марат Низамов](https://up.htmlacademy.ru/htmlcss/27/user/1343601).
-* Наставник: [Дмитрий Вашкевич](https://htmlacademy.ru/profile/id116959).
+* Наставник: [Дмитрий Вашкевич](https://up.htmlacademy.ru/htmlcss/27/user/116959).
 
 ---
 
